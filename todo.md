@@ -1,0 +1,6 @@
+- Make a list of plugins
+- Make settings for proper autocomplition in CoC
+- Find posibilities to make new files from tree
+- Settings for highlight open end close tags
+- Add text scrollbar for main window
+- Add tabs
