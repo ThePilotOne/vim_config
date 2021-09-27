@@ -4,3 +4,12 @@
 - Settings for highlight open end close tags
 - Add text scrollbar for main window
 - Add tabs
+- Add filetype icons to the tree
+- Add Git highlighting
+- Diferent styes (font and color schemes) tree and main window
+- Solid border between windows
+- Make Pretier works
+- Close tree automatically after :wq
+- Add other language mapping
+- Add option to hide tildes in buffer
+
