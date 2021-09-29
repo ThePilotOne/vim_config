@@ -1,15 +1,17 @@
-- Make a list of plugins
-- Make settings for proper autocomplition in CoC
-- Find posibilities to make new files from tree
-- Settings for highlight open end close tags
-- Add text scrollbar for main window
-- Add tabs
-- Add filetype icons to the tree
-- Add Git highlighting
-- Diferent styes (font and color schemes) tree and main window
-- Solid border between windows
-- Make Pretier works
-- Close tree automatically after :wq
-- Add other language mapping
-- Add option to hide tildes in buffer
+- [ ] Three branches for using with themes, plugins and pure
+- [ ] Make a list of plugins
+- [ ] Make settings for proper autocomplition in CoC
+- [ ] Find posibilities to make new files from tree
+- [ ] Highlight open end close tags
+- [ ] Add text scrollbar for main window
+- [ ] Add filetype icons to the tree
+- [ ] Add Git highlighting
+- [ ] Diferent styes (font and color schemes) tree and main window
+- [ ] Solid border between panes
+- [ ] Make Pretier works
+- [ ] Close tree automatically after :wq
+- [ ] Add option to hide tildes in buffer
+- [ ] Make all command working with rus locale
+- [ ] Theme switcher
+- [ ] Add emmet
 
